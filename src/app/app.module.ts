@@ -11,7 +11,6 @@ import {routerConfig} from "./router.config";
 import {CourseDetailComponent} from './course-detail/course-detail.component';
 import {CoursesService} from "./services/courses.service";
 import {CoursesListComponent} from './courses-list/courses-list.component';
-import {CourseDetailHeaderComponent} from './course-detail-header/course-detail-header.component';
 import {NewsletterComponent} from './newsletter/newsletter.component';
 import {NewsletterService} from "./services/newsletter.service";
 import {TopMenuComponent} from './top-menu/top-menu.component';
@@ -38,7 +37,6 @@ import { AllLessonsComponent } from './all-lessons/all-lessons.component';
         HomeComponent,
         CourseDetailComponent,
         CoursesListComponent,
-        CourseDetailHeaderComponent,
         NewsletterComponent,
         TopMenuComponent,
         LoginComponent,
